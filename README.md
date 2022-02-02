@@ -1,9 +1,9 @@
 CS419.M11.KHCL - Truy xuất thông tin
 
 # Thành viên:
-    - Trần Minh Tiến - 18521492
-    - Trần Việt Hoàng - 18520785
-    - Bạch Văn Hiếu - 18520730
+   + Trần Minh Tiến - 18521492
+   + Trần Việt Hoàng - 18520785
+   + Bạch Văn Hiếu - 18520730
     
 # Source:
 ## CRANFIELD:
@@ -26,5 +26,3 @@ CS419.M11.KHCL - Truy xuất thông tin
     - gensim: tính và lập chỉ mục mô hình LSI 
     - nltk: stemming và loại bỏ stopword
 
-Link drive: 
-https://drive.google.com/drive/folders/1Pp1iKGOlPmx-sjORfvY5gGR7siXKSfB-?usp=sharing
