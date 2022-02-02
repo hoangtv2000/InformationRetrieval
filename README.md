@@ -9,10 +9,11 @@ CS419.M11.KHCL - Truy xuất thông tin
 ## CRANFIELD:
     - lsi_cran.ipynb
     - vector_cran.ipynb
+    
 ## NFCORPUS:
     - lsi_nfcorpus.ipynb
     - vector_nfcorpus.ipynb
-    - 
+    
 # Ngữ liệu:
     - data: file cran.all.1400, cral.qry và cranqrel
     - nfcorpus:
@@ -20,8 +21,7 @@ CS419.M11.KHCL - Truy xuất thông tin
         - folder train: toàn bộ file train
         - folder test: toàn bộ file test
         - folder raw: stopword và chứa thông tin khác của truy vấn 
-        
-        
+       
 # Thư viện:
     - gensim: tính và lập chỉ mục mô hình LSI 
     - nltk: stemming và loại bỏ stopword
