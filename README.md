@@ -4,8 +4,13 @@ CS419.M11.KHCL - Truy xuất thông tin
    + Trần Minh Tiến - 18521492
    + Trần Việt Hoàng - 18520785
    + Bạch Văn Hiếu - 18520730
-    
-# Source:
+  
+# Báo cáo: 
+   [File Báo Cáo](https://github.com/hoangtv2000/InformationRetrieval/blob/main/BaoCaoDoAn.pdf)
+   
+   [File PowerPoint](https://github.com/hoangtv2000/InformationRetrieval/blob/main/18521492_18520730_18520785_truy_xuat.pptx)
+   
+# Source code:
 ## CRANFIELD:
     - lsi_cran.ipynb
     - vector_cran.ipynb
